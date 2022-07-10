@@ -1,0 +1,1 @@
+<h1 style="display: block; text-align: center; margin-top: 400px">404</h1><?php /**PATH C:\xampp\htdocs\harminder\codecanyon-30127235-skynet-multipurpose-laravel-cms\multipurpose_website_cms\core\resources\views/errors/404.blade.php ENDPATH**/ ?>
